@@ -67,6 +67,11 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
+    },    {
+      "group": "Assistencia",
+      "pages": [
+        "assistencia/assistencia",
+      ]
     },
     {
       "group": "API Documentation",

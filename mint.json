@@ -72,7 +72,11 @@
       "group": "GameAssist",
       "pages": [
         "assistencia/condicoes-gerais",
-                "assistencia/coberturas/seguro"
+          {
+                "group": "Nested Reference Pages",
+                "pages": ["assistencia/coberturas/seguro"]
+            }
+                
 
       ]
     },

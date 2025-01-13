@@ -73,7 +73,7 @@
       "pages": [
         "assistencia/condicoes-gerais",
           {
-                "group": "Nested Reference Pages",
+                "group": "Coberturas",
                 "pages": ["assistencia/coberturas/seguro"]
             }
                 

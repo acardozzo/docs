@@ -71,7 +71,9 @@
     {
       "group": "GameAssist",
       "pages": [
-        "assistencia/condicoes-gerais"
+        "assistencia/condicoes-gerais",
+                "assistencia/coberturas/seguro"
+
       ]
     },
     {

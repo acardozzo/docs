@@ -69,7 +69,7 @@
       ]
     },  
     {
-      "group": "Assistencia",
+      "group": "GameAssist",
       "pages": [
         "assistencia/assistencia"
       ]

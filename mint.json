@@ -1,24 +1,25 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "ZENTEK",
+  
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/dark.webp",
+    "light": "/logo/dark.webp"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.webp",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#0D73D9", 
+    "light": "#07A3F2", 
+    "dark": "#0D73D9", 
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#0D73D9", 
+      "to": "#07A3F2" 
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Suporte",
+      "url": "mailto:suporte@zentek.com.br"
     }
   ],
   "topbarCtaButton": {
@@ -32,19 +33,11 @@
     }
   ],
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    }
- 
+   
   ],
   "navigation": [
-    {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
-    },
- 
+
+
     {
       "group": "Assistênciais",
       "pages": [
@@ -59,22 +52,23 @@
         {
           "group": "Assistência Casa",
           "pages": [
-            "assistencias/assistencia-casa/condicoes-gerais",
-            "assistencias/assistencia-casa/servicos"
+            "assistencias/assistencia-casa/condicoes-gerais"
           ]
         }
       ]
     },
     {
       "group": "Coberturas",
-      "pages": ["coberturas/seguro-console"]
+      "pages": [
+        "coberturas/seguro-console",
+        "coberturas/assistencia-residencial",
+        "coberturas/celular-reserva",
+        "coberturas/danos-eletricos",
+        "coberturas/seguro-console"
+      ]
     }
- 
-
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+ 
   }
 }

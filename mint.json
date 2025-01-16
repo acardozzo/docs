@@ -63,6 +63,10 @@
         {
           "group": "VidaAtiva",
           "pages": ["assinaturas/vida-ativa/condicoes-gerais"]
+        },
+        {
+          "group": "Cyber Segurança",
+          "pages": ["assinaturas/cyber/condicoes-gerais"]
         }
       ]
     },

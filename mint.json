@@ -50,28 +50,34 @@
       "pages": [
         {
           "group": "GameAssist",
-          "pages": ["assistencias/game-assist/condicoes-gerais"]
+          "pages": ["assinaturas/game-assist/condicoes-gerais"]
         },
         {
           "group": "Casa Conectada",
-          "pages": ["assistencias/casa-conectada/condicoes-gerais"]
+          "pages": ["assinaturas/casa-conectada/condicoes-gerais"]
         },
         {
           "group": "Assistência Casa",
-          "pages": [
-            "assistencias/assistencia-casa/condicoes-gerais"
-          ]
+          "pages": ["assinaturas/assistencia-casa/condicoes-gerais"]
+        },
+        {
+          "group": "VidaAtiva",
+          "pages": ["assinaturas/vida-ativa/condicoes-gerais"]
         }
       ]
     },
     {
       "group": "Coberturas",
       "pages": [
-        "coberturas/seguro-console",
+        "coberturas/assistencia-funeral",
         "coberturas/assistencia-residencial",
-        "coberturas/celular-reserva",
+        "coberturas/celular-reserva", 
         "coberturas/danos-eletricos",
-        "coberturas/seguro-console"
+        "coberturas/seguro-console",
+        "coberturas/sorteios",
+        "coberturas/telemedicina",
+        "coberturas/tele-veterinario",
+        "coberturas/suporte-tecnico"
       ]
     }
   ],

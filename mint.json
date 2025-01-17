@@ -67,6 +67,10 @@
         {
           "group": "Cyber Segurança",
           "pages": ["assinaturas/cyber/condicoes-gerais"]
+        },
+        {
+          "group": "Gestor de Vida Digital",
+          "pages": ["assinaturas/gestor-de-vida/condicoes-gerais"]
         }
       ]
     },

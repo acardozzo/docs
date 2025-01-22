@@ -1,32 +1,33 @@
+
 # Mintlify ZENTEK
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Clique em `Use this template` para copiar o kit inicial do Mintlify. O kit inicial contém exemplos, incluindo:
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+- Páginas de guias
+- Navegação
+- Personalizações
+- Páginas de referência de API
+- Uso de componentes populares
 
-### Development
+### Desenvolvimento
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+Instale o [Mintlify CLI](https://www.npmjs.com/package/mintlify) para visualizar as alterações na documentação localmente. Para instalar, use o seguinte comando:
 
 ```
 npm i -g mintlify
 ```
 
-Run the following command at the root of your documentation (where mint.json is)
+Execute o seguinte comando na raiz da sua documentação (onde o arquivo `mint.json` está localizado):
 
 ```
 mintlify dev
 ```
 
-### Publishing Changes
+### Publicação de Alterações
 
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+Instale nosso aplicativo do GitHub para propagar automaticamente as alterações do seu repositório para a sua implantação. As alterações serão implantadas automaticamente em produção após serem enviadas para o branch padrão. Encontre o link para instalação no seu painel de controle.
 
-#### Troubleshooting
+#### Solução de Problemas
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+- Mintlify dev não está rodando: Execute `mintlify install` para reinstalar as dependências.
+- A página carrega como um erro 404: Certifique-se de estar executando em uma pasta que contém o arquivo `mint.json`.
